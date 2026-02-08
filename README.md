@@ -8,7 +8,6 @@ This project is developed as a final-year academic thesis, focusing on
 improving healthcare workflows through intelligent automation and
 data-driven clinical decision support.
 
----
 
 ## Key Features
 - Automated prescription text extraction using Optical Character Recognition (OCR)
@@ -18,7 +17,6 @@ data-driven clinical decision support.
 - Secure RESTful APIs with JWT-based authentication
 - Scalable and modular backend architecture
 
----
 
 ## Technology Stack
 
@@ -44,7 +42,6 @@ data-driven clinical decision support.
 - JWT Authentication
 - Role-Based Access Control (RBAC)
 
----
 
 ## Project Structure
 ```txt
