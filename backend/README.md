@@ -31,9 +31,11 @@ Clinical Named Entity Recognition (NER), and Machine Learning.
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
-
+```
 
 ### Frontend
+```bash
 npm install
 npm run dev
+```
 
