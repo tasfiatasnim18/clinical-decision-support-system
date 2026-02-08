@@ -96,6 +96,6 @@ npm run dev
 This project is licensed under the MIT License.
 
 ## Author
-# Tasfia Tasnim
-# Final Year Thesis Project
-# Department of Computer Science and Engineering
+Tasfia Tasnim
+Final Year Thesis Project
+Department of Computer Science and Engineering
